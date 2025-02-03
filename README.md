@@ -1,2 +1,1 @@
-# Xadrez-
-Game Xadrez in Python
+#Chess Game in Python
